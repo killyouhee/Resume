@@ -25,7 +25,7 @@
   * 설명 : 미로 안에 있는 몬스터들을 피해 미로를 탈출하는 게임
   * 유니티 엔진 사용
   * 제작 인원 : 1명
-  * 깃허브 주소 : MAZE GAME
+  * 깃허브 주소 : [MAZE GAME][https://github.com/killyouhee/Maze-Game]
 
 
 
